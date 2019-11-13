@@ -1,0 +1,17 @@
+CLASS temp_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+  data: key type i,
+        name type c.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS temp_class IMPLEMENTATION.
+ENDCLASS.
